@@ -28,4 +28,7 @@ You may toggle auto mode by pressing the 'A' Key on your keyboard
 
 ## Known issues
 - Windows display scaling will zoom the game window
-If your game is zoomed in go to your display options and make sure that scaling is set to 100%, partial scaling values break this patch due to the way ONScripter handles this. 
+If your game is zoomed in go to your display options and make sure that scaling is set to 100%, partial scaling values break this patch due to the way ONScripter handles this.
+
+## Credits
+- The original [Mirror Moon]([https://kaisernet.org/onscripter/](http://mirrormoon.org/projects/complete/tsukihime/) for their translation which this patch is built upon
