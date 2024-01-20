@@ -6,6 +6,9 @@ Tsukihime 2000 16x9 Widescreen Patch
 ## About
 This patches the game to be rendered in a resolution of 1920x1080. All game assets such as sprites, UI elements, backgrounds, CG's have been upscaled to high fidelity ones. Menus have been remade and their corresponding elements replaced to utilize the wider aspect ratio. CG's and backgrounds ingame are zoomed as stretching these would ruin the presentation.
 
+This repository is for the script part, the patch in it's entirety can be found on the original post over at [Beast's Lair](https://forums.nrvnqsr.com/showthread.php/9621-Tsukihime-2000-16-9-HD-Patch?p=3278199#post3278199)
+
+
 ## Textboxes
 The patch contains three different textboxes to choose from
 - Centered
