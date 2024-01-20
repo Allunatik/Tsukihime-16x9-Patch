@@ -20,7 +20,7 @@ The patch contains three different textboxes to choose from
   
 - Original
   
-![Tsukihime 16x9 - Textwindow](https://github.com/Allunatik/Tsukihime-16x9-Patch/assets/142026488/21ccb2ff-002e-4646-81c3-5e5452e7fb95)
+  ![Tsukihime 16x9 - Textwindow](https://github.com/Allunatik/Tsukihime-16x9-Patch/assets/142026488/21ccb2ff-002e-4646-81c3-5e5452e7fb95)
 
 
 ## Automode
