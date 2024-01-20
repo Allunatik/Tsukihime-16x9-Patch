@@ -11,7 +11,7 @@ This patches the game to be rendered in a resolution of 1920x1080. All game asse
 ## Textboxes
 The patch contains three different textboxes to choose from
 - Centered
-- 
+  
   ![Centered](https://github.com/Allunatik/Tsukihime-16x9-Patch/assets/142026488/9cf5d3c1-1b3e-4842-af39-1b83a4ae2836)
   
 - Fullwidth
